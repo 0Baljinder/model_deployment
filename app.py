@@ -5,7 +5,7 @@ import pandas as pd
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, OrdinalEncoder
 from flask import Flask, request, render_template
-from pyngrok import conf, ngrok
+
 import joblib
 from sklearn.compose import ColumnTransformer
 import pathlib
@@ -23,5 +23,3 @@ def home():
         return render_template('result.html', prediction=prediction)
     return render_template('index.html')
 
-if __name__=='__main__':
-    app.run() 
