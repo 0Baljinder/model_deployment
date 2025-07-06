@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<div class='container'>
+  <title>Estimated Flight Fare</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <h2>Your Estimated Flight Fare</h2>
+  <p>Based on the travel details you provided, here's the estimated fare price:</p>
+  <h3 style='color: green;'>₹ {{ prediction }} </h3>
+  <br>
+  <a href='/'>Try Another Prediction</a>
+</div>
+</body>
+</html>
