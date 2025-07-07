@@ -2,6 +2,8 @@
 
 This repository contains the code required to deploy the Flight Fare Price Prediction Web App using Render. The deployed site allows users to input flight details (like airline, cities, stops, class, etc.) and receive a predicted flight fare — powered by a machine learning model trained on real airline pricing data.
 
+**webapp link** https://flight-fare-predictor-yie4.onrender.com
+
 > Note: This repository focuses only on deployment, while the actual model training, experimentation, and EDA are available in a separate repository (linked below).
 
 
