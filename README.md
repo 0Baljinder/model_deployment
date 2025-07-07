@@ -116,9 +116,11 @@ These two repositories are meant to complement each other:
 
 You can add one or two screenshots here from the deployed web app.
 
-![Web App Screenshot](screenshots/homepage.jpg)
-
-
+![Web App Screenshot](screenshots/Screenshot_2025-07-07-10-48-32-188_com.opera.browser.jpg)
+![Web App Screenshot](screenshots/Screenshot_2025-07-07-11-03-30-398_com.opera.browser.jpg)
+![Web App Screenshot](screenshots/Screenshot_2025-07-07-11-04-10-381_com.opera.browser.jpg)
+![Web App Screenshot](screenshots/Screenshot_2025-07-07-10-49-52-966_com.opera.browser.jpg) 
+![Web App Screenshot](screenshots/Screenshot_2025-07-07-10-52-34-870_com.opera.browser.jpg)
 ---
 
 
