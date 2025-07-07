@@ -27,18 +27,6 @@ Uses a Flask web framework to interact with users and make predictions
 
 ---
 
-## Key Differences from the Original (Training) Repository
-
-Aspect	Training Repository	Render Deployment Repository
-
-Purpose	Model training, EDA, testing, and validation	Hosting the trained model as a web app
-Platform	Google Colab Notebooks, Ngrok for testing	Render (cloud deployment)
-Contents	Full ML workflow + notebook	Flask app, model file, app.py, templates
-Model Format	Saved via joblib in pipeline form	Loaded and used directly in Flask backend
-
-
-
----
 
 ## About the Web App
 
