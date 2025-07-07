@@ -4,7 +4,16 @@ This repository contains the code required to deploy the Flight Fare Price Predi
 
 **webapp link** https://flight-fare-predictor-yie4.onrender.com
 
-> Note: This repository focuses only on deployment, while the actual model training, experimentation, and EDA are available in a separate repository : https://github.com/0Baljinder/flight-fare-prediction-using-xgboost-catboost-lgbmboost
+**Notice on Prediction Delay**
+
+> Note: This app is hosted on Render's free tier, where the server goes into sleep mode after 15 minutes of inactivity.
+When you press the Submit button, the model may take 40–60 seconds to respond if the server is waking up from sleep.
+Please be patient — this delay occurs only on the first request after a period of inactivity. Subsequent responses will be much faster.
+
+
+**Notice**
+
+> This repository focuses only on deployment, while the actual model training, experimentation, and EDA are available in a separate repository : https://github.com/0Baljinder/flight-fare-prediction-using-xgboost-catboost-lgbmboost
 
 
 
