@@ -4,7 +4,7 @@ This repository contains the code required to deploy the Flight Fare Price Predi
 
 **webapp link** https://flight-fare-predictor-yie4.onrender.com
 
-> Note: This repository focuses only on deployment, while the actual model training, experimentation, and EDA are available in a separate repository (linked below).
+> Note: This repository focuses only on deployment, while the actual model training, experimentation, and EDA are available in a separate repository : https://github.com/0Baljinder/flight-fare-prediction-using-xgboost-catboost-lgbmboost
 
 
 
